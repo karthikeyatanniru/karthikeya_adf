@@ -1,0 +1,9 @@
+{
+	"name": "karthik09",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "231bc1bc-87cd-49fb-a69e-f1c6e7251f78",
+		"tenantId": "bb4493c9-16ba-478f-a172-8ee6ac17201d"
+	}
+}
