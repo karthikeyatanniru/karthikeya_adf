@@ -1,0 +1,9 @@
+{
+	"name": "azureblobfactorygeek",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aaf5f611-5142-4593-92a0-921bad04a52e",
+		"tenantId": "bb4493c9-16ba-478f-a172-8ee6ac17201d"
+	}
+}
